@@ -1,6 +1,6 @@
 # safepass
 
-A new Flutter project.
+An app to save your passwords and card details.
 
 ## Getting Started
 
