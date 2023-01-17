@@ -23,25 +23,25 @@ https://drive.google.com/drive/folders/1FpoS4Tz8vIbx2JFT16uiWesQjUa6sU4l?usp=sha
 
 
 ## Steps to Run the App
-###Step 1: Install Flutter SDK
+##Step 1: Install Flutter SDK
 Make sure you have the Flutter SDK installed on your computer. If you don't, you can download it from the official website Flutter website
 
-###Step 2: Clone the repository
+##Step 2: Clone the repository
 Use git to clone the repository of the app you want to install. You can find the link to the repository on the GitHub page of the app. Use the following command to clone the repository:
 Copy code
 git clone https://github.com/prathamssaraf/SafePass.git
 
-###Step 3: Navigate to the root directory
+##Step 3: Navigate to the root directory
 Navigate to the root directory of the cloned repository using the command line.
 Copy code
 cd https://github.com/prathamssaraf/SafePass/
 
-###Step 4: Get the dependencies
+##Step 4: Get the dependencies
 Run the following command to get the required dependencies.
 Copy code
 flutter pub get
 
-###Step 5: Run the app
+##Step 5: Run the app
 Connect your device or start an emulator, then use the following command to run the app.
 Copy code
 flutter run
